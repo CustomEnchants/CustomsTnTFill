@@ -1,0 +1,9 @@
+name: CustomsTnTFill
+version: 6.0.0
+main: CustomsTnTFill.CustomsTnTFillPlugin
+description: A tntfill plugin !
+author: CustomEnchants
+commands:
+  tntfill:
+     aliases: [etntfill]
+     description: Fill Dispensers with TnT
